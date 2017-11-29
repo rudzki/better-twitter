@@ -42,5 +42,7 @@ for tweet in results:
                   "\n", tweet_url, "\n")
 
 
+# todo: returned tweets seem few; probably hitting limit
 # todo: store in database for X days
 # todo: web interface using flask
+
